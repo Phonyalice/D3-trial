@@ -1,0 +1,29 @@
+.title{
+	font-family: "Arial";
+	font-style: italic; 
+	color:Red; 
+	text-align: center;}
+.body{
+	background-color: Cyan;
+	border-left: 10 px solid;
+	font-family: "Arial";
+	color: Red;
+	padding: 10 px;
+	text-align: center; 
+	margin: 10 px;}
+
+.body2{
+	color: Green;}
+
+.chart{
+	width: 500px;
+	height: 400px
+	position: absolute;
+}
+.circ1{
+	color: Cyan;
+}
+.rect1{
+	colour:rgb(232,232,232) 
+}
+
